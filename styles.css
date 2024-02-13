@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.tree {
+  padding: 15px 0;
+}
+.service-item {
+  margin: 12px 0 12px 20px;
+}
+.service-item span {
+  display: flex;
+  align-items: center;
+  width: max-content;
+  cursor: pointer;
+}
+.service-item span:hover {
+  color: rgb(33, 0, 165);
+}
+img {
+  width: 18px;
+  margin-right: 5px;
+}
+.leaf {
+  margin-left: 23px;
+}
